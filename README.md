@@ -1,5 +1,5 @@
 # bella
-Meu nome é isabella tavres 
+Meu nome é isabella tavares 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
